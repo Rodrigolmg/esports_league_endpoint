@@ -3,6 +3,9 @@ library data;
 import 'package:dartz/dartz.dart';
 import 'package:esports_league_endpoint/core/core.dart';
 import 'package:esports_league_endpoint/domain/domain.dart';
+import 'package:dio/dio.dart';
+import 'package:esports_http_api/esports_http_api.dart';
+import 'package:hive/hive.dart';
 
 // repository
 part 'repository/league_season_repository_impl.dart';
@@ -15,3 +18,7 @@ part 'datasource/remote/league_season_datasource.dart';
 
 // local datasource
 part 'datasource/local/league_season_local_datasource.dart';
+
+// util datasource
+part 'datasource/url_path.dart';
+part 'datasource/datasource_box_name.dart';
