@@ -96,25 +96,25 @@ void main() {
 
     test('Should return last locally cached data when the cached data is present',
             () async {
-          when(mockLocalDataSource.getLastLeagueSeasons(tTournamentId))
+          when(mockLocalDataSource.getLastLeagueSeasons())
               .thenAnswer((_) async => leagueSeasons);
 
           final result = await repositoryImpl.getLeagueSeason(tTournamentId);
 
           verifyZeroInteractions(mockRemoteDataSource);
-          verify(mockLocalDataSource.getLastLeagueSeasons(tTournamentId));
+          verify(mockLocalDataSource.getLastLeagueSeasons());
           expect(result, equals(Right(leagueSeasons)));
         });
 
     test('Should return CacheFailure when there is no cached data',
         () async {
-      when(mockLocalDataSource.getLastLeagueSeasons(any))
+      when(mockLocalDataSource.getLastLeagueSeasons())
           .thenThrow(CacheException());
 
       final result = await repositoryImpl.getLeagueSeason(tTournamentId);
 
       verifyZeroInteractions(mockRemoteDataSource);
-      verify(mockLocalDataSource.getLastLeagueSeasons(tTournamentId));
+      verify(mockLocalDataSource.getLastLeagueSeasons());
       expect(result, equals(Left(CacheFailure())));
     });
   });

@@ -27,7 +27,7 @@ class LeagueSeasonRepositoryImpl implements LeagueSeasonRepository {
     } else {
       try {
         List<SeasonModel>? lastLeagueSeasons =
-          await localDataSource.getLastLeagueSeasons(tournamentId);
+          await localDataSource.getLastLeagueSeasons();
 
         if(lastLeagueSeasons == null) {
           return Left(CacheFailure());
