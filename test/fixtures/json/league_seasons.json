@@ -1,0 +1,1192 @@
+{
+  "seasons": [
+    {
+      "editor": false,
+      "id": 55307,
+      "name": "Advanced Europe season 46 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 55151,
+      "name": "Cash Cup: North America 1 Summer 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 55152,
+      "name": "Cash Cup: Europe 1 Summer 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 53533,
+      "name": "Pre-Season Circuit North America 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 51964,
+      "name": "Cash Cup: Europe 6 Spring 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 52168,
+      "name": "Main Europe season 45 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 51779,
+      "name": "Cash Cup: Europe season 5 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 51342,
+      "name": "Cash Cup: Europe 4 Spring 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 49951,
+      "name": "Advanced Europe season 45 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 49940,
+      "name": "Cash Cup: Europe 2 Spring 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 49270,
+      "name": "Cash Cup: Europe 5 Winter 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 49026,
+      "name": "Cash Cup: North America 3 Winter 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 49027,
+      "name": "Cash Cup: Europe 4 Winter 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 48665,
+      "name": "Cash Cup: North America 2 Winter 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 48664,
+      "name": "Cash Cup: Europe 2 Winter 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 48521,
+      "name": "Cash Cup: North America 1 Winter 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 48321,
+      "name": "Advanced Europe season 44 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 48307,
+      "name": "Cash Cup: Europe 1 Winter 2023",
+      "year": "2023"
+    },
+    {
+      "editor": false,
+      "id": 47920,
+      "name": "Main season 43 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47905,
+      "name": "Cash Cup: North America 7 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47907,
+      "name": "Cash Cup: Europe 7 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47804,
+      "name": "Cash Cup: North America 6 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47803,
+      "name": "Cash Cup: Europe 6 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47719,
+      "name": "Cash Cup: North America 5 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47720,
+      "name": "Cash Cup: Europe 5 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47604,
+      "name": "Cash Cup: North America season 4 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47607,
+      "name": "Cash Cup: Europe 4 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47102,
+      "name": "Cash Cup: 3 North America Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47101,
+      "name": "Cash Cup: Europe 3 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 46980,
+      "name": "Advanced Europe season 43 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47934,
+      "name": "Open Division - Europe season 43 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 47935,
+      "name": "Intermediate Division - Europe season 43 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 46780,
+      "name": "Cash Cup: North America 2 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 46779,
+      "name": "Cash Cup: Europe 2 Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 46216,
+      "name": "Cash Cup 1 North America Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 46215,
+      "name": "Cash Cup 1 Europe Autumn 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 46043,
+      "name": "Cash Cup: North America 6 Summer  2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 46044,
+      "name": "Cash Cup: Europe 5 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 44952,
+      "name": "Cash Cup: North America 5 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 44953,
+      "name": "Cash Cup: Europe 4 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 44632,
+      "name": "Advanced Europe season 42 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 44780,
+      "name": "Cash Cup North Amerca Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 44609,
+      "name": "Cash Cup: North America 3 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 44423,
+      "name": "Cash Cup: North America 2 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 44421,
+      "name": "Cash Cup: Europe 2 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 44248,
+      "name": "Cash Cup: Europe 2 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 42455,
+      "name": "Cash Cup: Europe 1 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 42253,
+      "name": "Main Europe season 41 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 42176,
+      "name": "Cash Cup: North America 1 Summer 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 42175,
+      "name": "Cash Cup: Europe 6 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 42020,
+      "name": "Cash Cup: North America 6 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41894,
+      "name": "Cash Cup: North America 5 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41893,
+      "name": "Cash Cup: Europe Spring 5 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41540,
+      "name": "Cash Cup: North America 4 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41541,
+      "name": "Cash Cup: Europe 4 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41451,
+      "name": "Cash Cup: North America 3 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41300,
+      "name": "Advanced Europe season 41 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41294,
+      "name": "Cash Cup: Europe 3 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41168,
+      "name": "Cash Cup: Europe 2 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41169,
+      "name": "Cash Cup: North America 2 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41025,
+      "name": "Cash Cup: North America 1 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 41026,
+      "name": "Cash Cup: Europe 1 Spring 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40904,
+      "name": "Cash Cup: North America 6 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40906,
+      "name": "Female Cash Cup: South America 5 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40905,
+      "name": "Female Cash Cup: North America 5 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40903,
+      "name": "Female Cash Cup season 5 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40844,
+      "name": "Cash Cup: Europe 6 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40748,
+      "name": "Cash Cup: North America 5 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40747,
+      "name": "Cash Cup: Europe 5 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40749,
+      "name": "Female Cash Cup: Europe 4 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40751,
+      "name": "Female Cash Cup: North America 4 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40750,
+      "name": "Female Cash Cup: South America 4 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40662,
+      "name": "Cash Cup: North America 4 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40663,
+      "name": "Cash Cup: Europe 4 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40666,
+      "name": "Female Cash Cup: North America 3 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40665,
+      "name": "Female Cash Cup: South America 3 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40664,
+      "name": "Female Cash Cup: Europe 3 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40512,
+      "name": "Advanced Europe season 40 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40529,
+      "name": "Cash Cup: North America 3 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40533,
+      "name": "Cash Cup: Europe 3 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40530,
+      "name": "Female Cash Cup: South America 2 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40532,
+      "name": "Female Cash Cup: North America 2 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40531,
+      "name": "Female Cash Cup: Europe 2 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40397,
+      "name": "Cash Cup: North America 2 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40398,
+      "name": "Female Cash Cup 1 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40400,
+      "name": "Female Cash Cup: South America 1 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40399,
+      "name": "Cash Cup: Europe 2 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40401,
+      "name": "Female Cash Cup: Europe 1 Winter 2022",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40246,
+      "name": "Intermediate Europe season 39 2021",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40244,
+      "name": "Open Europe season 39 2021",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40264,
+      "name": "Cash Cup North America Winter 2021",
+      "year": "2022"
+    },
+    {
+      "editor": false,
+      "id": 40239,
+      "name": "Main Europe season 39 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39998,
+      "name": "Premier Relegation Europe season 39 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39999,
+      "name": "Premier Relegation - North America season 39 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 40054,
+      "name": "Cash Cup: Europe 1 Winter 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39979,
+      "name": "Cash Cup: North America 6 Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39978,
+      "name": "Cash Cup: Europe 6 Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39802,
+      "name": "Cash Cup: Europe 5 Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39691,
+      "name": "Cash Cup: North America 5 Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39574,
+      "name": "Cash Cup: North America 4 Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39573,
+      "name": "Cash Cup: Europe 4 Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39517,
+      "name": "Premier North America season 39 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39492,
+      "name": "Premier Europe season 39 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39483,
+      "name": "Premier Australia season 39 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39410,
+      "name": "Cash Cup 3: North America Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39406,
+      "name": "Cash Cup 3: Europe Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39381,
+      "name": "Advanced Division - Europe season 39 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39318,
+      "name": "Cash Cup 2: North America Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39267,
+      "name": "Premier Relegation North America season 38 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39258,
+      "name": "Premier Relegation - Europe season 38 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 39270,
+      "name": "Premier Relegation - Australia season 38 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38970,
+      "name": "Cash Cup: North America Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38969,
+      "name": "Cash Cup: Europe Autumn 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38824,
+      "name": "Cash Cup: North America 7 Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38823,
+      "name": "Cash Cup: Europe 7 Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38065,
+      "name": "Premier North America season 38 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38064,
+      "name": "Premier Europe season 38 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38066,
+      "name": "Premier Australia season 38 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38082,
+      "name": "Cash Cup: North America 6 Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 38081,
+      "name": "Cash Cup: Europe 6 Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37908,
+      "name": "Cash Cup: North America season 5 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37903,
+      "name": "Cash Cup: Europe 5 Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37840,
+      "name": "Advanced season 38 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37790,
+      "name": "Cash Cup: North America Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37785,
+      "name": "Cash Cup: Europe season 4 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37656,
+      "name": "Cash Cup: North America season 3 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37655,
+      "name": "Cash Cup: Europe season 3 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37336,
+      "name": "Europe Premier Relegation season 37 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37337,
+      "name": "North America Premier Relegation season 37 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37185,
+      "name": "Cash Cup: North America 2 Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 37184,
+      "name": "Cash Cup: Europe 2 Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36865,
+      "name": "Cash Cup: North America Summer 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36862,
+      "name": "Cash Cup: Europe Summer 1 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36793,
+      "name": "Cash Cup: North America 6 Spring 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36794,
+      "name": "Cash Cup: Europe 6 Spring 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36654,
+      "name": "Cash Cup: North America 5 Spring 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36513,
+      "name": "Premier - North America season 37 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36516,
+      "name": "Advanced Europe 37 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36518,
+      "name": "Europe season 37 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36534,
+      "name": "Australia season 37 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36362,
+      "name": "Premier Relegation - North America season 36 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36351,
+      "name": "Premier Relegation - Europe season 36 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36303,
+      "name": "Cash Cup: North America Spring 4 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36296,
+      "name": "Cash Cup: Europe season 4 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36208,
+      "name": "Cash Cup: North America Spring 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36207,
+      "name": "Cash Cup: Europe Spring 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36119,
+      "name": "Cash Cup: North America Spring 2 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36118,
+      "name": "Cash Cup: Europe season 2 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36041,
+      "name": "Cash Cup: North America Spring 1 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 36040,
+      "name": "Cash Cup: Europe Spring 1 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35768,
+      "name": "Cash Cup: North America Winter 6 2020",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35769,
+      "name": "Cash Cup: Europe Winter 6 2020",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35593,
+      "name": "Cash Cup: North America 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35592,
+      "name": "Cash Cup: Europe Winter 5 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35445,
+      "name": "North America Cash Cup season 4 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35446,
+      "name": "Cash Cup Europe Winter 4 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35378,
+      "name": "Season 36 North America 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35388,
+      "name": "Premier Season 36 Europe 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35323,
+      "name": "Advanced Europe season 36 2021",
+      "year": "2021"
+    },
+    {
+      "editor": false,
+      "id": 35373,
+      "name": "Cash Cup Winter 3 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 35374,
+      "name": "Cash Cup: Europe Winter 3 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 35097,
+      "name": "Cash Cup: Europe Winter 2 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 34777,
+      "name": "Premier Releagtion season 35 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 34981,
+      "name": "Season 35: Premier Relegation - Europe: Climber Cup 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 34973,
+      "name": "Cash Cup: Europe 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 34742,
+      "name": "Cash Cup: Europe Autumn 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 34710,
+      "name": "Advanced Europe season 35 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 34586,
+      "name": "Cash Cup: North America Autumn 1 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 32922,
+      "name": "Cash Cup: North America season 4 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 32924,
+      "name": "Cash Cup: Europe season 4 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 32959,
+      "name": "Cash Cup: Europe season 3 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 32968,
+      "name": "Cash Cup: North America season 3 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 32990,
+      "name": "MDL North America season 35 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 32986,
+      "name": "MDL Europe season 35 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 32988,
+      "name": "MDL Australia season 35 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33019,
+      "name": "Cash Cup: North America season 2 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33022,
+      "name": "Cash Cup: Europe season 2 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33032,
+      "name": "Premier Relegation Australia season 34 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33037,
+      "name": "Cash Cup: Europe Summer 1 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33196,
+      "name": "Premier North America Finals season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33195,
+      "name": "Premier Europe Finals season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33073,
+      "name": "Premier Relegation Europe: Climber Cup season 34 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33211,
+      "name": "Advanced Europe season 34 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33488,
+      "name": "MDL North America season 34 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33489,
+      "name": "MDL Europe season 34 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33494,
+      "name": "MDL Australia season 34 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33204,
+      "name": "Advanced North America season 34 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33551,
+      "name": "Open Brazil season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33549,
+      "name": "Open Asia-Pacific season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33552,
+      "name": "Advanced North America season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33553,
+      "name": "Advanced Europe season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33784,
+      "name": "MDL North America season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33800,
+      "name": "MDL Europe season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33803,
+      "name": "MDL Australia season 33 2020",
+      "year": "2020"
+    },
+    {
+      "editor": false,
+      "id": 33832,
+      "name": "MDL Global Challenge season 32 2019",
+      "year": "2019"
+    },
+    {
+      "editor": false,
+      "id": 34007,
+      "name": "MDL Europe season 32 2019",
+      "year": "2019"
+    },
+    {
+      "editor": false,
+      "id": 34006,
+      "name": "MDL Australia season 32 2019",
+      "year": "2019"
+    },
+    {
+      "editor": false,
+      "id": 34005,
+      "name": "MDL North America season 32 2019",
+      "year": "2019"
+    }
+  ]
+}
