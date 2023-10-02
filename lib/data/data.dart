@@ -17,6 +17,8 @@ part 'model/season_model.dart';
 part 'model/league_season_info/color_model.dart';
 part 'model/league_season_info/sport_model.dart';
 part 'model/league_season_info/team_model.dart';
+part 'model/league_season_info/prize_money_model.dart';
+part 'model/league_season_info/info_model.dart';
 
 /// datasource
 

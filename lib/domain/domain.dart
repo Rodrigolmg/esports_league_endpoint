@@ -9,6 +9,8 @@ part 'entity/season_entity.dart';
 part 'entity/league_season_info/team_entity.dart';
 part 'entity/league_season_info/color_entity.dart';
 part 'entity/league_season_info/sport_entity.dart';
+part 'entity/league_season_info/prize_money_entity.dart';
+part 'entity/league_season_info/info_entity.dart';
 
 // repository
 part 'repository/league_season_repository.dart';
