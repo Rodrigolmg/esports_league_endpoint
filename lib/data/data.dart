@@ -10,8 +10,15 @@ import 'package:hive/hive.dart';
 // repository
 part 'repository/league_season_repository_impl.dart';
 
-// model
+/// model
 part 'model/season_model.dart';
+
+// league season info model
+part 'model/league_season_info/color_model.dart';
+part 'model/league_season_info/sport_model.dart';
+part 'model/league_season_info/team_model.dart';
+
+/// datasource
 
 // remote datasource
 part 'datasource/remote/league_season_datasource.dart';

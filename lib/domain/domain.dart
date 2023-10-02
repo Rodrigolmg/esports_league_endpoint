@@ -6,6 +6,9 @@ import 'package:dartz/dartz.dart';
 
 // entity
 part 'entity/season_entity.dart';
+part 'entity/league_season_info/team_entity.dart';
+part 'entity/league_season_info/color_entity.dart';
+part 'entity/league_season_info/sport_entity.dart';
 
 // repository
 part 'repository/league_season_repository.dart';
