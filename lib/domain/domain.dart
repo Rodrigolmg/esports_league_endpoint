@@ -14,6 +14,8 @@ part 'entity/league_season_info/info_entity.dart';
 
 // repository
 part 'repository/league_season_repository.dart';
+part 'repository/league_season_info_repository.dart';
 
 // usecase
 part 'usecase/get_league_seasons_usecase.dart';
+part 'usecase/get_league_season_info_usecase.dart';
