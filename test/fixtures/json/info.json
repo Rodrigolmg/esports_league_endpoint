@@ -1,0 +1,35 @@
+{
+  "hostCountries": [],
+  "id": 24213,
+  "newcomersLowerDivision": [],
+  "newcomersOther": [],
+  "newcomersUpperDivision": [],
+  "numberOfCompetitors": 16,
+  "tier": "c",
+  "totalPrizeMoney": 1200000,
+  "totalPrizeMoneyCurrency": "CNY",
+  "totalPrizeMoneyRaw": {
+    "currency": "CNY",
+    "value": 1200000
+  },
+  "winner": {
+    "id": 365611,
+    "name": "Bilibili Gaming",
+    "nameCode": "BGA",
+    "national": false,
+    "shortName": "Bilibili Gaming",
+    "slug": "bilibili-gaming",
+    "sport": {
+      "id": 72,
+      "name": "E-sports",
+      "slug": "esports"
+    },
+    "teamColors": {
+      "primary": "#52b030",
+      "secondary": "#52b030",
+      "text": "#ffffff"
+    },
+    "type": 0,
+    "userCount": 216
+  }
+}
