@@ -5,7 +5,7 @@ import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 
 @GenerateNiceMocks([MockSpec<LeagueSeasonInfoRepository>()])
-import 'get_league_season_info_test.mocks.dart';
+import 'get_league_season_info_usecase_test.mocks.dart';
 
 void main(){
 
