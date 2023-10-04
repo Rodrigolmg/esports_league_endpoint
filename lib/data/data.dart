@@ -9,6 +9,7 @@ import 'package:hive/hive.dart';
 
 // repository
 part 'repository/league_season_repository_impl.dart';
+part 'repository/league_season_info_repository_impl.dart';
 
 /// model
 part 'model/season_model.dart';
@@ -24,9 +25,11 @@ part 'model/league_season_info/info_model.dart';
 
 // remote datasource
 part 'datasource/remote/league_season_datasource.dart';
+part 'datasource/remote/league_season_info_datasource.dart';
 
 // local datasource
 part 'datasource/local/league_season_local_datasource.dart';
+part 'datasource/local/league_season_info_local_datasource.dart';
 
 // util datasource
 part 'datasource/url_path.dart';
