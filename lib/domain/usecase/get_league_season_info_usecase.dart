@@ -1,6 +1,6 @@
 part of domain;
 
-class GetLeagueSeasonInfoUseCase implements UseCase<InfoEntity,int?> {
+class GetLeagueSeasonInfoUseCase implements UseCase<InfoEntity, int?> {
 
     final LeagueSeasonInfoRepository repository;
 
@@ -9,8 +9,8 @@ class GetLeagueSeasonInfoUseCase implements UseCase<InfoEntity,int?> {
     });
 
   @override
-  Future<Either<Failure, InfoEntity>> call([int? tournamentId]) {
-    return repository.getSeasonInfo(tournamentId);
+  Future<Either<Failure, InfoEntity>> call([int? tournamentId, int? seasonId]) {
+    return repository.getSeasonInfo(tournamentId, seasonId);
   }
 
 

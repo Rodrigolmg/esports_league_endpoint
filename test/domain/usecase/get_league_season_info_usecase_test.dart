@@ -18,18 +18,19 @@ void main(){
   });
 
   const int tTournamentId = 1;
+  const int tSeasonId = 1;
 
   InfoEntity tInfo = InfoEntity(id: 1);
 
   test('Should get Right value', () async {
 
-    when(mockRepository.getSeasonInfo(any))
+    when(mockRepository.getSeasonInfo(any, any))
         .thenAnswer((_) async => Right(tInfo));
 
-    final result = await useCase(tTournamentId);
+    final result = await useCase(tTournamentId, tSeasonId);
 
     expect(result, Right(tInfo));
-    verify(mockRepository.getSeasonInfo(tTournamentId));
+    verify(mockRepository.getSeasonInfo(tTournamentId, tSeasonId));
     verifyNoMoreInteractions(mockRepository);
   });
 }

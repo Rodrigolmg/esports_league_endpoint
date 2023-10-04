@@ -13,10 +13,13 @@ class LeagueSeasonInfoRepositoryImpl implements LeagueSeasonInfoRepository {
   });
 
   @override
-  Future<Either<Failure, InfoEntity>> getSeasonInfo(int? tournamentId) async {
+  Future<Either<Failure, InfoEntity>> getSeasonInfo(
+      int? tournamentId, int? seasonId) async {
     if(await networkInfo.isConnected){
       try {
-        InfoModel info = await remoteDataSource.getSeasonInfo(tournamentId);
+        InfoModel info = await remoteDataSource.getSeasonInfo(
+            tournamentId, seasonId);
+
         localDataSource.cacheSeasonInfo(info);
 
         return Right(info);
